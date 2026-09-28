@@ -140,15 +140,15 @@ The work covers automated and integrated approaches to engineering plant design 
 ### 📬 Let's Connect
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+
+  <a href="mailto:github+Farshid.Sargheiny@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+  <a href="https://linkedin.com/in/Farshid-Sargheini">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
 </div>
 
 <br>
-<div align="center">
-  <img src="https://profile-counter.glitch.me/farshidsar/count.svg" alt="Profile Views" />
-</div>
