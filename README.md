@@ -24,23 +24,48 @@ I am a Senior Software Engineer specializing in backend architecture, scalable A
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
+
+  **C# / .NET & Backend** <br>
   
-  **Architecture & Backend** <br>
-  <img src="https://img.shields.io/badge/.NET_10-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=microservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_10-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
   
   <br><br>
-  **Data & Messaging** <br>
+  
+  **Architecture & Distributed Systems** <br>
+  
+  <img src="https://img.shields.io/badge/Microservices-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CQRS-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DDD-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Event_Driven-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
+
+  
+  <br><br>
+
+  **Additional Backend Languages** <br>
+  
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <br><br>  
+  **Data, Caching & Messaging** <br>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black" />
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  
 
     
   <br><br>
@@ -56,8 +81,31 @@ I am a Senior Software Engineer specializing in backend architecture, scalable A
   <img src="https://img.shields.io/badge/GitLab_CI-18284E?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   
 </div>
+
+---
+
+### 🚀 Selected Engineering Highlights
+
+- Built and scaled backend systems handling **3M+ requests/day** and **10M+ product records**.
+- Engineered WebSocket pipelines processing **~30K market ticks/sec** with sub-200 ms quote latency.
+- Designed Kafka pipelines sustaining **~20K messages/sec**.
+- Modernized a legacy engineering platform into a cloud-connected .NET system, delivering an overall **94% improvement across drawing/model processing and query performance**.
+- Built real-time synchronization between offline WinForms/AutoCAD clients and ASP.NET Core services, eliminating **~95% of manual data-merge incidents**.
+- Rebuilt a legacy reporting pipeline, reducing processing time from **36 hours to under 30 seconds**.
+
+---
+
+### 📜 Patent
+
+**Co-inventor — Automated and Integrated Plant Design**
+
+- US Patent Application: `US20220198088A1`
+- PCT Publication: `WO2023175383A1`
+
+The work covers automated and integrated approaches to engineering plant design and related software systems.
 
 ---
 
