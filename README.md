@@ -4,7 +4,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00A791&center=true&vCenter=true&width=600&lines=Hi,+I'm+Farshid+Sargheiny+👋;Senior+.NET+%26+Backend+Engineer;Unity+3D+%26+VR+Developer;AI+Products+Architect" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=27&pause=1000&color=00A791&center=true&vCenter=true&width=850&lines=Senior+C%23%2F.NET+%26+Backend+Engineer;Distributed+Systems+%26+High-Throughput+APIs;Unity+3D+%26+VR+Developer;AI+Agents+%7C+RAG+%7C+AI-Assisted+Systems"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
@@ -12,12 +15,19 @@
 
 ### 👨‍💻 About Me
 
-I am a Senior Software Engineer specializing in backend architecture, scalable APIs, and immersive VR experiences. I thrive on solving complex problems, optimizing workflows, and blending AI with everyday development tools. 
+I'm a **Senior Software Engineer specializing in C#/.NET, backend systems, distributed architectures, high-throughput APIs, Unity 3D/VR, and AI-assisted software systems**.
 
-- 🔭 **Currently working on:** Microservices with ASP.NET Core, AI Agents, and optimizing 3D rendering in Unity, Cloud-connected SaaS modernization, CQRS/MediatR implementations, and high-performance event-driven pipelines.
-- 🌱 **Currently learning:** Advanced System Design and continuous English language improvement. Empirical approaches to software modernization, architectural dependency analysis, and automated developer-support tools.
-- 🏆 **Honors & Awards:** Recipient of the National Software Innovation Award and Khwarazmi Awards for automated 3D modeling algorithms and structural simulation
-- ⚡ **Fun fact:** I love optimizing multi-million object 3D models while building robust web services!
+My work spans modernizing large legacy platforms, building production backend services, designing real-time and event-driven systems, developing Unity-based 3D/VR applications, and integrating AI capabilities into engineering and developer workflows.
+
+I have hands-on experience with **ASP.NET Core, SQL Server, PostgreSQL, Redis, Kafka, Docker, GCP, WebSocket, Unity 3D, VR systems, AI Agents, Retrieval-Augmented Generation (RAG), and AI-assisted development workflows**.
+
+- 🔭 **Currently focused on:** ASP.NET Core, distributed systems, microservices, CQRS, real-time synchronization, event-driven architectures, AI Agents, RAG pipelines, and cloud-connected platform modernization.
+- 🤖 **AI Engineering:** AI Agents, RAG, LLM-assisted workflows, knowledge retrieval, engineering automation, and developer-support tools.
+- 🥽 **3D & VR:** Unity 3D development, VR applications, interactive 3D environments, and performance optimization for complex scenes.
+- ⚙️ **Performance Engineering:** High-throughput APIs, Kafka pipelines, WebSocket systems, query optimization, and large-scale data processing.
+- 🧩 **Legacy Modernization:** Bridging .NET Framework, WinForms, Web Forms, and legacy applications with modern .NET and cloud-connected architectures.
+- 🧪 **Engineering Quality:** Automated testing, observability, resiliency, CI/CD, and production reliability.
+- 📜 **Innovation:** Co-inventor on a US/PCT patent application for automated and integrated plant design.
 
 ---
 
@@ -44,6 +54,14 @@ I am a Senior Software Engineer specializing in backend architecture, scalable A
   <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=grpc&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge" />
 
+  <br><br>
+  **AI Engineering** <br>
+  
+  <img src="https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Integration-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vector_Search-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Assisted_Development-412991?style=for-the-badge" />
   
   <br><br>
 
@@ -69,10 +87,12 @@ I am a Senior Software Engineer specializing in backend architecture, scalable A
 
     
   <br><br>
-  **Game Dev & VR** <br>
+  **Unity 3D & Game Dev & VR** <br>
+  
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/VR-1C1E20?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   
   <br><br>
   **Cloud & DevOps** <br>
