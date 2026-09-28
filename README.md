@@ -141,10 +141,6 @@ The work covers automated and integrated approaches to engineering plant design 
 
 <div align="center">
 
-  <a href="mailto:Farshid.Sargheiny+github@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
   <a href="https://linkedin.com/in/Farshid-Sargheini">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
