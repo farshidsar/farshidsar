@@ -141,7 +141,7 @@ The work covers automated and integrated approaches to engineering plant design 
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/Farshid-Sargheini">
+  <a href="https://linkedin.com/in/Farshid-Sargheiny">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
